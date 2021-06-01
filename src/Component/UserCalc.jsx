@@ -70,6 +70,7 @@ num2: Number(event.target.value),
                 <p>Result:{this.state.Result}</p>
 
                 <CalcHistory  previusResults = {this.state.history}/>
+                <p></p>
             </div>
         );
     }

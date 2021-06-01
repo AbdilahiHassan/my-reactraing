@@ -12,7 +12,7 @@ class App extends Component {
         <StaticCalc />
         <hr />
         <UserCalc />
-
+<h1></h1>
             </div>
         );
     }

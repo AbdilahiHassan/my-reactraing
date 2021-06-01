@@ -15,7 +15,7 @@ class StaticCalc extends Component {
             <p>NumA:{this.state.NumA}</p>
             <p>NunB:{this.state.NumB}</p>
             <p>Result: {this.state.NumB + this.state.NumA}</p>
-        
+         <p></p>
             </div>
         );
     }

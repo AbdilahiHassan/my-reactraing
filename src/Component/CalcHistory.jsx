@@ -12,7 +12,7 @@ class CalcHistory extends Component {
               <td>{row.Result}</td>
             </tr>
           ));
-    
+    <p></p>
 
   return (
             <table>
